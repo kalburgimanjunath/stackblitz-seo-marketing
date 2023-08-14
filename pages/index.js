@@ -51,7 +51,7 @@ export default function Home() {
       <div className="flex grid grid-cols-2 ">
         <section className="bg-white text-black p-5">
           <h1 className="font-bold">
-            Video Marketing Mastery: A 5-Day Email Course To Help Agencies
+            SEO Marketing Mastery: A 5-Day Email Course To Help Agencies
             Create Winning Campaigns, Retain Clients, And Scale Past $10k Months
           </h1>
           <p>
@@ -62,12 +62,12 @@ export default function Home() {
         </section>
         <section className="bg-white text-black p-5">
           <ul className="list-disc text-violet-500 text-2xl">
-            <li>Creative guidelines for all the major video platforms </li>
+            <li>Creative guidelines for all the major SEO platforms </li>
             <li>18 actionable tips to improve campaign performance</li>
             <li> Briefing templates + AI writing companion</li>
             <li> 10 award winning campaign examples</li>
             <li>
-              Everything you need to become a video marketing pro, and set
+              Everything you need to become a Seo marketing pro, and set
               yourself apart from other agencies.
             </li>
           </ul>
@@ -107,7 +107,7 @@ export default function Home() {
             Day 3: Tired of relying on guesswork for your campaign's success?
             (Use data like a pro)
           </li>
-          <li>Day 4: The Forgotten Art Of Video SEO (And How To Use It) </li>
+          <li>Day 4: The Forgotten Art Of Seo SEO (And How To Use It) </li>
           <li>
             Day 5: Wrapping Up Campaigns (And How To Use It As A Sales
             Opportunity)
